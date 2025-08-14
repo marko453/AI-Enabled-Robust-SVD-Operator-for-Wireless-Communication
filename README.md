@@ -5,7 +5,7 @@
 > Final score aligns with the official metric: `Score = 100 × AE + MACs`.
 
 <p align="center">
-  <img src="docs/figs/kfactor_hist.png" alt="K-factor distribution" width="55%">
+  <img src="docs/kfactor_hist.png" alt="K-factor distribution" width="55%">
 </p>
 
 ## 1. Highlights
@@ -105,11 +105,11 @@ The defaults in `make_cfg()` reflect our final setting:
 ## 8. Visualization
 
 <p align="center">
-  <img src="docs/figs/spatial_freq_scen1.png" alt="Spatial & Frequency, Scen 1" width="95%">
+  <img src="docs/spatial_freq_scen1.png" alt="Spatial & Frequency, Scen 1" width="95%">
 </p>
 
 <p align="center">
-  <img src="docs/figs/energy_curve.png" alt="Cumulative Energy Profile" width="95%">
+  <img src="docs/energy_curve.png" alt="Cumulative Energy Profile" width="95%">
 </p>
 
 ## 9. License
