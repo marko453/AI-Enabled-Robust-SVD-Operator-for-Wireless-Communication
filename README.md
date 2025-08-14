@@ -4,6 +4,8 @@
 > End-to-end network that predicts `(U, S, V)` for large MIMO channels **without any QR/SVD/EVD/inversion** inside the network.  
 > Final score aligns with the official metric: `Score = 100 × AE + MACs`.
 
+**Competition Result**: Final Score **63.0** — **4th place (Third Prize)** at **Huawei Sweden Tech Arena 2025**.
+
 <p align="center">
   <img src="docs/kfactor_hist.png" alt="K-factor distribution" width="55%">
 </p>
