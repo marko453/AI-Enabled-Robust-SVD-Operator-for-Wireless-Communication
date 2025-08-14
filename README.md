@@ -27,7 +27,7 @@
 .
 ├── model.py          # train / prune_ft / infer
 ├── scripts/          # convenience shell scripts
-├── docs/figs/        # analysis plots used in README
+├── docs/        # analysis plots used in README
 ├── ckpts/            # checkpoints (ignored by git)
 ├── submissions/      # npz outputs (ignored by git)
 ├── requirements.txt
