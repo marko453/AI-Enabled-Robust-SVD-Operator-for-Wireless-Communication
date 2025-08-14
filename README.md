@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/21775840/README.md)
 # LoMACS-SVDNet: Orthogonality without Decompositions
 
 > **AI-Enabled Robust SVD Operator for Wireless Communication**  
