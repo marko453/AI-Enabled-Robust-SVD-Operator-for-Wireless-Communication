@@ -1,0 +1,23 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Envs
+.env
+.venv
+
+# OS
+.DS_Store
+
+# Outputs
+ckpts*/
+ckpts/
+submissions*/
+submissions/
+*.npz
+*.pth
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
