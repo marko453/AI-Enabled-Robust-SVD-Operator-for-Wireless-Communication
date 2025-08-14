@@ -27,7 +27,7 @@
 .
 ├── model.py          # train / prune_ft / infer
 ├── scripts/          # convenience shell scripts
-├── docs/        # analysis plots used in README
+├── docs/             # analysis plots used in README
 ├── ckpts/            # checkpoints (ignored by git)
 ├── submissions/      # npz outputs (ignored by git)
 ├── requirements.txt
@@ -47,10 +47,14 @@ pip install -r requirements.txt
 Place the official data (e.g. `CompetitionData2`) under `./data2/`, following the organizer’s naming:
 ```
 data2/
-  Round2CfgData1.txt  Round2TrainData1.npy  Round2TrainLabel1.npy  Round2TestData1.npy
-  Round2CfgData2.txt  ...
-  Round2CfgData3.txt  ...
-  Round2CfgData4.txt  ...
+  Round2CfgData1.txt
+  Round2CfgData2.txt  
+  Round2CfgData3.txt  
+  Round2CfgData4.txt  
+  Round2TrainData1.npy...
+  Round2TrainLabel1.npy...
+  Round2TestData1.npy...
+  
 ```
 
 ## 5. Quick Start
